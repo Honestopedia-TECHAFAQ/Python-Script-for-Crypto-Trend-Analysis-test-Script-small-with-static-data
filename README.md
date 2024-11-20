@@ -1,0 +1,1 @@
+# Python-Script-for-Crypto-Trend-Analysis-test-Script-small-with-static-data
